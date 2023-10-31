@@ -1,0 +1,34 @@
+namespace System
+{
+    delegate void Mymath(int a , int b);
+    class Multicast
+    { 
+        internal static void Add(int a, int b)
+        {
+            Console.WriteLine( a + b);
+        }
+        internal static void product(int a, int b)
+        {
+            Console.WriteLine(a * b);
+        }
+    }
+    class Program
+    {
+        static void main(string[] args)
+        {
+            Mymath strop;
+            Mymath ad = Multicast.Add;
+            Mymath pd= Multicast.product;
+
+            strop= ad;
+            strop += pd;
+
+            strop(5, 6);
+
+            
+
+        }
+    }
+
+
+}
