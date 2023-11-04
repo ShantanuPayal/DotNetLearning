@@ -65,6 +65,7 @@ namespace CustomerAdoNet
                     //instead of creating a new command object
                     cmd.CommandText = "delete from Customer where Id =3";
                     //use ExecuteNonQuery() method to delete the row from the database
+                    //
                     rowsAffected = cmd.ExecuteNonQuery();
                     Console.WriteLine("Deleted Rows = " + rowsAffected);
 
