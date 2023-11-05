@@ -1,0 +1,14 @@
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.exe
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.deps.json
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.runtimeconfig.json
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.dll
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.pdb
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.AssemblyInfoInputs.cache
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.AssemblyInfo.cs
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.csproj.CoreCompileInputs.cache
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.dll
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\refint\BankOfBaroda.dll
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.pdb
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.genruntimeconfig.cache
+D:\MyCsharp\BankOfBaroda\BankOfBaroda\obj\Debug\net7.0\ref\BankOfBaroda.dll
